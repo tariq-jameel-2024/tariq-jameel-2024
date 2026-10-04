@@ -36,7 +36,7 @@ I am a passionate **BS Computer Engineering** student at **CECOS University**, d
 ---
 
 ### 📊 GitHub Stats
-![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
+![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tariq-jameel-2024&show_icons=true&theme=radium)
 
 ---
 
@@ -45,7 +45,13 @@ I am a passionate **BS Computer Engineering** student at **CECOS University**, d
   <a href="https://www.linkedin.com/in/tariq-jameel-4392a8370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/YOUR_PAGE_URL" target="_blank">
+  <a href="https://www.facebook.com/tariq jameel" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+### 📜 Certifications & Achievements
+
+| Certificate | Details |
+| :---: | :--- |
+| <img src="modern.AI,png.png" width="300"/> | **Introduction to Modern AI** <br> **Issuer:** Cisco Networking Academy <br> **Date:** 22 Sep 2026 <br> **Cert ID:** `9062f246-b237-4178-9b03-a06abed8594c` |
+| <img src="cybersecurity.png.png" width="300"/> | **Introduction to Cybersecurity** <br> **Issuer:** Cisco Networking Academy / USECS <br> **Date:** 27 Sep 2026 <br> **Cert ID:** `448fabd2-15b3-4b20-ad26-599b2a24a33c` |
