@@ -56,7 +56,7 @@ I am a BS Computer Engineering student at [CECOS University](https://www.cecos.e
 ## 📫 Connect with me
 - LinkedIn: [tariq-jameel-4392a8370](https://www.linkedin.com/in/tariq-jameel-4392a8370)
 whatsapp:03220254568
----
+email:jameeltari2619@gmail.com
 
 ## 📜 Certifications & Achievements
 
