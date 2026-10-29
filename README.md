@@ -28,7 +28,7 @@ I am a design-minded **Full-Stack Developer** and **Computer Engineering** stude
 
 As the **Co-Founder of [xSypher](https://xsypher.com)**, I drive full-stack web engineering, modern digital transformation, and AI automation workflows. My engineering focus bridges modern software architecture with a strong emphasis on **cybersecurity**, building scalable web applications with security-first foundations, resilient APIs, and interactive UI/UX.
 
-- 🎓 **Education:** BS in Computer Engineering (2022 – 2026) @ [CECOS University](https://www.cecos.edu.pk/)
+- 🎓 **Education:** BS in Computer Engineering (2024 – 2028) @ [CECOS University](https://www.cecos.edu.pk/)
 - 🏢 **Leadership:** Co-Founder @ **[xSypher](https://xsypher.com)** — Tech & Digital Agency
 - 💻 **Core Focus:** Full-Stack Web Development, Next.js / React 19, TypeScript, Node.js & API Engineering
 - 🛡️ **Cybersecurity Interests:** Kali Linux, Network Architecture, Secure System Administration, and Hardening
