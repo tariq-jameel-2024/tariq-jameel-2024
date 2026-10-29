@@ -2,7 +2,7 @@
 
 # Hi there, I'm Tariq Jameel 👋
 ### 💻 Co-Founder @ [xSypher](https://xsypher.com) · Full-Stack Web Developer · Cybersecurity Enthusiast
-**BS Computer Engineering Student @ [CECOS University](https://www.cecos.edu.pk/)**
+**BS Computer Engineering  @ [CECOS University](https://www.cecos.edu.pk/)**
 
 [![Website](https://img.shields.io/badge/Website-xsypher.com-00C49F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xsypher.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariq_Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-jameel-4392a8370)
