@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I am a design-minded **Full-Stack Developer** and **Computer Engineering** student at [CECOS University of IT & Emerging Sciences](https://www.cecos.edu.pk/) (2022 – 2026) based in Peshawar, Pakistan.
+I am a design-minded **Full-Stack Developer** and **Computer Engineering** student at [CECOS University of IT & Emerging Sciences](https://www.cecos.edu.pk/) (2024 – 2028) based in Peshawar, Pakistan.
 
 As the **Co-Founder of [xSypher](https://xsypher.com)**, I drive full-stack web engineering, modern digital transformation, and AI automation workflows. My engineering focus bridges modern software architecture with a strong emphasis on **cybersecurity**, building scalable web applications with security-first foundations, resilient APIs, and interactive UI/UX.
 
