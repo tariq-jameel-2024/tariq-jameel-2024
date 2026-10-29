@@ -85,8 +85,8 @@ As the **Co-Founder of [xSypher](https://xsypher.com)**, I drive full-stack web 
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :---: |
-| **xSypher** | Next.js, TypeScript, Tailwind, AI | Official digital agency platform co-founded to deliver high-performance web software and AI automations. | [🌐 Live Demo](https://xsypher.com) |
-| **Venture Pakistan** | Next.js 15, Gemini AI, Tailwind v4, Express | Premium interactive AI travel concierge and journey planner for Northern Pakistan destinations. | [💻 Repo](https://github.com/tariq-jameel-2024/venture-pakistan) |
+| **xSypher** | Next.js, TypeScript, Tailwind,  | Official digital agency platform co-founded to deliver high-performance web software and AI automations. | [🌐 Live Demo](https://xsypher.com) |
+| **Venture Pakistan** | Next.js 15, Tailwind v4, Express | Premium interactive AI travel concierge and journey planner for Northern Pakistan destinations. | [💻 Repo](https://github.com/tariq-jameel-2024/venture-pakistan) |
 | **TJ Brand Atelier** | Next.js, React, Tailwind CSS | Elegant portfolio & digital brand atelier showcase with custom motion interactions. | [💻 Repo](https://github.com/tariq-jameel-2024/tj-brand-atelier) · [🌐 Live Demo](https://tj-brand-atelier.vercel.app) |
 | **LifeCare Academy** | React, Node.js, Modern CSS | Healthcare & educational portal designed with structured learning paths and responsive UI. | [💻 Repo](https://github.com/tariq-jameel-2024/lifecareacademy) · [🌐 Live Demo](https://lifecareacademy.vercel.app) |
 | **Modern Developer Portfolio** | Next.js, Framer Motion, TypeScript | Interactive portfolio website featuring an embedded AI concierge and responsive CV modal. | [💻 Repo](https://github.com/tariq-jameel-2024/tj-portfolio) |
