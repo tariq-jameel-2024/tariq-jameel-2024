@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/badge/Website-xsypher.com-00C49F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xsypher.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariq_Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-jameel-4392a8370)
 [![Email](https://img.shields.io/badge/Email-jameeltari2619@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jameeltari2619@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_322_0254568-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923220254568)
 
 <p align="center">
   <a href="#-about-me">About Me</a> •
@@ -32,7 +31,6 @@ As the **Co-Founder of [xSypher](https://xsypher.com)**, I drive full-stack web 
 - 🏢 **Leadership:** Co-Founder @ **[xSypher](https://xsypher.com)** — Tech & Digital Agency
 - 💻 **Core Focus:** Full-Stack Web Development, Next.js / React 19, TypeScript, Node.js & API Engineering
 - 🛡️ **Cybersecurity Interests:** Kali Linux, Network Architecture, Secure System Administration, and Hardening
-- 🤖 **AI & Automation:** Gemini AI API integrations, WhatsApp Cloud API, Meta Graph API & n8n Workflows
 - 📍 **Location:** Peshawar, Pakistan
 
 ---
@@ -132,8 +130,6 @@ Feel free to reach out for collaborations, full-stack web engineering, or cybers
   <a href="https://xsypher.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-00C49F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://wa.me/923220254568" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://github.com/tariq-jameel-2024">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
