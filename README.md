@@ -1,27 +1,23 @@
 <div align="center">
 
-<h1>Tariq Jameel</h1>
+# Hi there, I'm Tariq Jameel 👋
+### 💻 Co-Founder @ [xSypher](https://xsypher.com) · Full-Stack Web Developer · Cybersecurity Enthusiast
+**BS Computer Engineering  @ [CECOS University](https://www.cecos.edu.pk/)**
 
-<p><strong>Co-Founder @ <a href="https://xsypher.com">xSypher</a></strong> &nbsp;·&nbsp; Full-Stack Web Developer &nbsp;·&nbsp; Cybersecurity Enthusiast</p>
-<p><strong>BS Computer Engineering</strong> &nbsp;@&nbsp; <a href="https://www.cecos.edu.pk/">CECOS University</a></p>
+[![Website](https://img.shields.io/badge/Website-xsypher.com-00C49F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xsypher.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariq_Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-jameel-4392a8370)
+[![Email](https://img.shields.io/badge/Email-jameeltari2619@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jameeltari2619@gmail.com)
 
-<p>
-  <a href="https://xsypher.com"><img src="https://img.shields.io/badge/Website-xsypher.com-00C49F?style=flat-square&labelColor=0f172a&logo=googlechrome&logoColor=white" alt="Website: xsypher.com"></a>
-  <a href="https://www.linkedin.com/in/tariq-jameel-4392a8370"><img src="https://img.shields.io/badge/LinkedIn-Tariq_Jameel-0077B5?style=flat-square&labelColor=0f172a&logo=linkedin&logoColor=white" alt="LinkedIn: Tariq Jameel"></a>
-  <a href="mailto:jameeltari2619@gmail.com"><img src="https://img.shields.io/badge/Email-jameeltari2619@gmail.com-D14836?style=flat-square&labelColor=0f172a&logo=gmail&logoColor=white" alt="Email: jameeltari2619@gmail.com"></a>
-</p>
-
-<p>
-  <kbd><a href="#-about-me">About Me</a></kbd>&nbsp;•&nbsp;
-  <kbd><a href="#-tech-stack--skills">Tech Stack</a></kbd>&nbsp;•&nbsp;
-  <kbd><a href="#-featured-projects">Featured Projects</a></kbd>&nbsp;•&nbsp;
-  <kbd><a href="#-certifications--achievements">Certifications</a></kbd>&nbsp;•&nbsp;
-  <kbd><a href="#-github-stats">GitHub Stats</a></kbd>&nbsp;•&nbsp;
-  <kbd><a href="#-connect-with-me">Connect</a></kbd>
+<p align="center">
+  <a href="#-about-me">About Me</a> •
+  <a href="#-tech-stack--skills">Tech Stack</a> •
+  <a href="#-featured-projects">Featured Projects</a> •
+  <a href="#-certifications--achievements">Certifications</a> •
+  <a href="#-github-stats">GitHub Stats</a> •
+  <a href="#-connect-with-me">Connect</a>
 </p>
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
