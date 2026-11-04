@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-xsypher.com-00C49F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xsypher.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tariq_Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-jameel-4392a8370)
-[![Email](https://img.shields.io/badge/Email-jameeltariq014@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jameeltariq014@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jameeltari2619@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jameeltari2619@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_322_0254568-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923220254568)
 
 <p align="center">
@@ -89,7 +89,6 @@ As the **Co-Founder of [xSypher](https://xsypher.com)**, I drive full-stack web 
 | **Venture Pakistan** | Next.js 15, Tailwind v4, Express | Premium interactive AI travel concierge and journey planner for Northern Pakistan destinations. | [💻 Repo](https://github.com/tariq-jameel-2024/venture-pakistan) |
 | **TJ Brand Atelier** | Next.js, React, Tailwind CSS | Elegant portfolio & digital brand atelier showcase with custom motion interactions. | [💻 Repo](https://github.com/tariq-jameel-2024/tj-brand-atelier) · [🌐 Live Demo](https://tj-brand-atelier.vercel.app) |
 | **LifeCare Academy** | React, Node.js, Modern CSS | Healthcare & educational portal designed with structured learning paths and responsive UI. | [💻 Repo](https://github.com/tariq-jameel-2024/lifecareacademy) · [🌐 Live Demo](https://lifecareacademy.vercel.app) |
-| **Modern Developer Portfolio** | Next.js, Framer Motion, TypeScript | Interactive portfolio website featuring an embedded AI concierge and responsive CV modal. | [💻 Repo](https://github.com/tariq-jameel-2024/tj-portfolio) |
 | **Exam Marks Calculator** | JavaScript, HTML5, CSS3 | Clean academic utility for computing cumulative semester grades, marks, and GPA averages. | [💻 Repo](https://github.com/tariq-jameel-2024/exam-marks-calculator) |
 | **Hotel Management System** | C++, Object-Oriented Architecture | Comprehensive console system managing room bookings, customer billing, and reservations. | [💻 Repo](https://github.com/tariq-jameel-2024/Hotel-Management-System-C-) |
 
@@ -127,7 +126,7 @@ Feel free to reach out for collaborations, full-stack web engineering, or cybers
   <a href="https://www.linkedin.com/in/tariq-jameel-4392a8370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:jameeltariq014@gmail.com">
+  <a href="mailto:jameeltari2619@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://xsypher.com" target="_blank">
